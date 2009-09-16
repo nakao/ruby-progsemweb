@@ -1,8 +1,17 @@
+A ruby version of the code in Programming the Semantic Web.
+
 http://semprog.com/content/
 http://semprog.com/psw/
 
 
-To download files:
+To download data files:
 
-cd chapter2
-rake chapter2
+ cd chapter2
+ rake chapter2
+
+
+-
+Mitsuteru Nakao, PhD
+mn@dbcls.jp
+Database Center for Life Science (DBCLS),
+Research Organization of Information and Systems (ROIS)
